@@ -1,0 +1,36 @@
+Emergency Routing and Distribution Contingency – Liquid Oxygen (LOX)
+
+In a hospital liquid oxygen distribution scenario, emergency routing refers to the reconfiguration of transport and delivery plans in response to production stoppage, demand surge, or logistics disruption.
+
+A production plant shutdown (planned or unplanned) may create supply imbalance across regions. To prevent tank depletion (dry-out), the following emergency routing strategies must be implemented:
+
+1. Cross-Plant Rebalancing
+- Activate alternative production plants within the network.
+- Reallocate tanker fleet capacity to support affected regions.
+- Prioritize medical oxygen over industrial contracts if required by regulation.
+
+2. Dynamic Route Optimization
+- Recalculate delivery routes in real-time based on:
+  - Current tank levels at hospitals
+  - Consumption forecast
+  - Distance to nearest available production source
+- Use telemetry and GPS fleet tracking systems to reduce response time.
+
+3. Priority-Based Allocation
+- Classify hospitals by criticality level (ICU capacity, emergency load, trauma centers).
+- Deliver first to high-risk facilities with <48h storage autonomy.
+
+4. Emergency Buffer Deployment
+- Deploy mobile cryogenic tanks where fixed storage is insufficient.
+- Increase temporary storage capacity in high-consumption hospitals.
+
+5. Fleet Surge Capacity
+- Activate standby drivers and vehicles.
+- Authorize overtime under emergency operations protocol.
+- Coordinate with third-party transport providers if internal fleet is insufficient.
+
+6. Regulatory Compliance
+- Ensure ADR (transport of dangerous goods) compliance.
+- Maintain full traceability of emergency dispatch decisions.
+
+Emergency routing decisions must be supported by real-time telemetry, predictive demand models, and a centralized operations control center.

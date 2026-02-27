@@ -1,0 +1,10 @@
+A dry-out event in liquid oxygen distribution refers to a tank depletion event where storage tanks reach critical low levels due to production stoppage, logistics delay, or demand surge.
+
+It is NOT related to humidification.
+
+Preventive measures include:
+- Minimum safety stock levels
+- Multi-plant redundancy
+- Real-time tank telemetry
+- Predictive consumption modeling
+- Emergency logistics rerouting

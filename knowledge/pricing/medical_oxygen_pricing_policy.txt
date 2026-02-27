@@ -1,0 +1,64 @@
+Medical Oxygen Pricing Policy – Hospital Contracts
+
+Medical liquid oxygen pricing is typically governed by long-term contracts and strict regulatory frameworks.
+
+1. Contract Structure
+Most hospital agreements include:
+- Fixed price per ton
+- Minimum annual volume commitment
+- Indexed adjustment clause (energy index or CPI)
+- Tank rental agreement
+- Maintenance service agreement
+
+Pricing flexibility during emergencies is limited.
+
+2. Regulatory Constraints
+Medical oxygen is a critical healthcare product.
+Price increases during emergencies may be:
+- Legally restricted
+- Contractually prohibited
+- Ethically sensitive
+
+Margin recovery during emergency situations is often not allowed.
+
+3. Volume-Based Pricing
+Hospitals are often segmented by:
+- Annual consumption
+- ICU capacity
+- Strategic importance
+
+Higher volume hospitals receive:
+- Lower base price per ton
+- More favorable logistics rates
+
+4. Emergency Delivery Pricing
+Emergency deliveries:
+- May not carry surcharge in regulated markets
+- Often absorb additional logistics cost internally
+- Reduce margin per ton
+
+5. Cross-Subsidization Risk
+If industrial contracts are interrupted to prioritize medical supply:
+- Industrial penalties may apply
+- Margin mix shifts negatively
+- EBITDA volatility increases
+
+6. Pricing Governance
+Financial controller and commercial director must approve:
+- Any deviation from contracted price
+- Emergency discount or surcharge decisions
+- Temporary contract renegotiations
+
+7. Strategic Pricing Considerations
+Medical oxygen supply supports:
+- Reputation
+- Long-term customer retention
+- Public trust
+- Government relations
+
+Pricing decisions must consider long-term strategic value, not only short-term margin.
+
+Emergency situations require balancing:
+Patient safety
+Regulatory compliance
+Financial sustainability

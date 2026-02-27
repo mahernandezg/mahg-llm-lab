@@ -1,0 +1,9 @@
+sentence-transformers 
+faiss-cpu 
+numpy 
+requests
+importlib
+re
+faiss
+hashlib
+json

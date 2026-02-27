@@ -1,0 +1,44 @@
+Financial Impact of Emergency Oxygen Deliveries – Industrial Gas Company Perspective
+
+Emergency oxygen deliveries significantly impact cost structure, working capital, and profitability.
+
+The main financial impacts include:
+
+1. Increased Transport Costs
+- Emergency routes are longer and less optimized.
+- Fuel consumption increases.
+- Overtime wages for drivers and operations personnel.
+- Use of third-party transport providers at premium rates.
+
+2. Production Cost Surge
+- Running backup plants at suboptimal efficiency increases energy consumption per ton.
+- Rapid ramp-up increases maintenance wear and tear.
+- Possible penalties from interrupted industrial contracts.
+
+3. Working Capital Pressure
+- Higher inventory requirements (safety stock increase).
+- Increased receivables if hospitals delay payment.
+- Increased payables for urgent supplier procurement.
+
+4. Margin Erosion
+- Emergency deliveries may not be priced at premium due to regulatory constraints.
+- Medical oxygen pricing is often contractually fixed.
+- Cost per delivered ton increases while revenue per ton remains stable.
+
+5. Risk Provisions
+- Financial controller must evaluate need for contingency reserves.
+- Insurance deductibles may apply if interruption triggers contractual penalties.
+
+6. KPI Impact
+- EBITDA margin reduction.
+- Increase in cost per ton-kilometer.
+- Decrease in logistics efficiency ratio.
+- Increased operational risk exposure.
+
+Emergency events must be analyzed using scenario-based financial modeling to quantify impact on:
+- Monthly P&L
+- Cash flow forecast
+- Cost allocation per hospital
+- Return on capital employed (ROCE)
+
+Financial governance requires full traceability of emergency cost drivers and post-incident review.
