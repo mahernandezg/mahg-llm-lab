@@ -1,0 +1,72 @@
+Unit Economics – Medical Liquid Oxygen (LOX)
+
+Unit economics for medical liquid oxygen distribution must be analyzed on a per-ton and per-ton-kilometer basis.
+
+1. Revenue per Ton
+Revenue per ton is typically contract-based and fixed for hospitals under long-term supply agreements. Pricing often includes:
+- Base LOX price per ton
+- Delivery fee
+- Tank rental (if applicable)
+- Service fee
+
+2. Cost per Ton (Production)
+Production cost drivers include:
+- Electricity consumption (cryogenic air separation is energy intensive)
+- Maintenance of compressors and distillation columns
+- Depreciation of plant assets
+- Labor
+- Regulatory compliance costs
+
+Energy typically represents the largest variable cost component.
+
+3. Logistics Cost per Ton-Kilometer
+Distribution costs are highly sensitive to:
+- Distance to hospital
+- Fleet utilization rate
+- Fuel cost
+- Driver labor
+- Loading/unloading time
+- Return-empty distance
+
+Low fleet utilization increases cost per delivered ton significantly.
+
+4. Marginal Cost vs Fully Allocated Cost
+Marginal cost includes:
+- Energy
+- Incremental labor
+- Transport fuel
+
+Fully allocated cost includes:
+- Depreciation
+- Overhead
+- IT systems
+- Control center operations
+- Corporate support functions
+
+Emergency events increase marginal cost significantly but also impact allocation efficiency.
+
+5. Safety Stock Impact on ROCE
+Increasing safety stock:
+- Improves service level
+- Increases working capital
+- Reduces Return on Capital Employed (ROCE)
+
+Financial controllers must balance:
+Service Level vs Capital Efficiency
+
+6. Key Financial KPIs
+- EBITDA per ton
+- Cost per ton delivered
+- Cost per ton-km
+- Working capital days
+- Plant utilization rate
+- Fleet utilization rate
+
+7. Impact of Emergency Events
+During emergency routing:
+- Cost per ton-km increases
+- Energy cost per ton may increase due to plant ramp-up inefficiencies
+- Overtime increases labor cost
+- Third-party transport increases logistics premium
+
+Unit economics analysis must support scenario-based decision making.

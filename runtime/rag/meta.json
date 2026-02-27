@@ -1,0 +1,98 @@
+{
+  "embed_model": "all-MiniLM-L6-v2",
+  "knowledge_dir": "C:/Users/maher/OneDrive/Documentos/06_GitHub/mahg-llm-lab/knowledge",
+  "files": [
+    {
+      "path": "C:/Users/maher/OneDrive/Documentos/06_GitHub/mahg-llm-lab/knowledge/finance/emergency_costs.txt",
+      "size": 1772,
+      "sha256": "98e38e66529166987aec4b9e9385a64f18c8e17ffce5d7990ed489ee73a961f4"
+    },
+    {
+      "path": "C:/Users/maher/OneDrive/Documentos/06_GitHub/mahg-llm-lab/knowledge/finance/unit_economics.txt",
+      "size": 2091,
+      "sha256": "a75ec9abf84a9d7d76cfbb893f659ab1f20a527020d6a7464650904990ddf4e5"
+    },
+    {
+      "path": "C:/Users/maher/OneDrive/Documentos/06_GitHub/mahg-llm-lab/knowledge/logistics/emergency_routing.txt",
+      "size": 1866,
+      "sha256": "4e943da0b74f1c405a208c10533fc9bc2dcef15f19ec1a99d7060603b2923ab8"
+    },
+    {
+      "path": "C:/Users/maher/OneDrive/Documentos/06_GitHub/mahg-llm-lab/knowledge/pricing/medical_oxygen_pricing_policy.txt",
+      "size": 1876,
+      "sha256": "2d67707922f2b6e1b892325b716bf07e3cae8f02332e779e0725947037d041e6"
+    },
+    {
+      "path": "C:/Users/maher/OneDrive/Documentos/06_GitHub/mahg-llm-lab/knowledge/production/dry_out_definition.txt",
+      "size": 411,
+      "sha256": "bb529e31b3ef2deb07eacbbce34229c933ac3bd64b6010cfc2e80181ab31f693"
+    }
+  ],
+  "chunks": [
+    {
+      "source": "C:/Users/maher/OneDrive/Documentos/06_GitHub/mahg-llm-lab/knowledge/finance/emergency_costs.txt",
+      "chunk": 0,
+      "text": "Financial Impact of Emergency Oxygen Deliveries – Industrial Gas Company Perspective\n\nEmergency oxygen deliveries significantly impact cost structure, working capital, and profitability.\n\nThe main financial impacts include:\n\n1. Increased Transport Costs\n- Emergency routes are longer and less optimized.\n- Fuel consumption increases.\n- Overtime wages for drivers and operations personnel.\n- Use of third-party transport providers at premium rates.\n\n2. Production Cost Surge\n- Running backup plants at suboptimal efficiency increases energy consumption per ton.\n- Rapid ramp-up increases maintenance wear and tear.\n- Possible penalties from interrupted industrial contracts.\n\n3. Working Capital Pressure\n- Higher inventory requirements (safety stock increase).\n- Increased receivables if hospitals delay payment.\n- Increased payables for urgent supplier procurement.\n\n4. Margin Erosion\n- Emergency del"
+    },
+    {
+      "source": "C:/Users/maher/OneDrive/Documentos/06_GitHub/mahg-llm-lab/knowledge/finance/emergency_costs.txt",
+      "chunk": 1,
+      "text": "ncrease).\n- Increased receivables if hospitals delay payment.\n- Increased payables for urgent supplier procurement.\n\n4. Margin Erosion\n- Emergency deliveries may not be priced at premium due to regulatory constraints.\n- Medical oxygen pricing is often contractually fixed.\n- Cost per delivered ton increases while revenue per ton remains stable.\n\n5. Risk Provisions\n- Financial controller must evaluate need for contingency reserves.\n- Insurance deductibles may apply if interruption triggers contractual penalties.\n\n6. KPI Impact\n- EBITDA margin reduction.\n- Increase in cost per ton-kilometer.\n- Decrease in logistics efficiency ratio.\n- Increased operational risk exposure.\n\nEmergency events must be analyzed using scenario-based financial modeling to quantify impact on:\n- Monthly P&L\n- Cash flow forecast\n- Cost allocation per hospital\n- Return on capital employed (ROCE)\n\nFinancial governance r"
+    },
+    {
+      "source": "C:/Users/maher/OneDrive/Documentos/06_GitHub/mahg-llm-lab/knowledge/finance/emergency_costs.txt",
+      "chunk": 2,
+      "text": "g to quantify impact on:\n- Monthly P&L\n- Cash flow forecast\n- Cost allocation per hospital\n- Return on capital employed (ROCE)\n\nFinancial governance requires full traceability of emergency cost drivers and post-incident review."
+    },
+    {
+      "source": "C:/Users/maher/OneDrive/Documentos/06_GitHub/mahg-llm-lab/knowledge/finance/unit_economics.txt",
+      "chunk": 0,
+      "text": "Unit Economics – Medical Liquid Oxygen (LOX)\n\nUnit economics for medical liquid oxygen distribution must be analyzed on a per-ton and per-ton-kilometer basis.\n\n1. Revenue per Ton\nRevenue per ton is typically contract-based and fixed for hospitals under long-term supply agreements. Pricing often includes:\n- Base LOX price per ton\n- Delivery fee\n- Tank rental (if applicable)\n- Service fee\n\n2. Cost per Ton (Production)\nProduction cost drivers include:\n- Electricity consumption (cryogenic air separation is energy intensive)\n- Maintenance of compressors and distillation columns\n- Depreciation of plant assets\n- Labor\n- Regulatory compliance costs\n\nEnergy typically represents the largest variable cost component.\n\n3. Logistics Cost per Ton-Kilometer\nDistribution costs are highly sensitive to:\n- Distance to hospital\n- Fleet utilization rate\n- Fuel cost\n- Driver labor\n- Loading/unloading time\n- Re"
+    },
+    {
+      "source": "C:/Users/maher/OneDrive/Documentos/06_GitHub/mahg-llm-lab/knowledge/finance/unit_economics.txt",
+      "chunk": 1,
+      "text": "r\nDistribution costs are highly sensitive to:\n- Distance to hospital\n- Fleet utilization rate\n- Fuel cost\n- Driver labor\n- Loading/unloading time\n- Return-empty distance\n\nLow fleet utilization increases cost per delivered ton significantly.\n\n4. Marginal Cost vs Fully Allocated Cost\nMarginal cost includes:\n- Energy\n- Incremental labor\n- Transport fuel\n\nFully allocated cost includes:\n- Depreciation\n- Overhead\n- IT systems\n- Control center operations\n- Corporate support functions\n\nEmergency events increase marginal cost significantly but also impact allocation efficiency.\n\n5. Safety Stock Impact on ROCE\nIncreasing safety stock:\n- Improves service level\n- Increases working capital\n- Reduces Return on Capital Employed (ROCE)\n\nFinancial controllers must balance:\nService Level vs Capital Efficiency\n\n6. Key Financial KPIs\n- EBITDA per ton\n- Cost per ton delivered\n- Cost per ton-km\n- Working capi"
+    },
+    {
+      "source": "C:/Users/maher/OneDrive/Documentos/06_GitHub/mahg-llm-lab/knowledge/finance/unit_economics.txt",
+      "chunk": 2,
+      "text": "rs must balance:\nService Level vs Capital Efficiency\n\n6. Key Financial KPIs\n- EBITDA per ton\n- Cost per ton delivered\n- Cost per ton-km\n- Working capital days\n- Plant utilization rate\n- Fleet utilization rate\n\n7. Impact of Emergency Events\nDuring emergency routing:\n- Cost per ton-km increases\n- Energy cost per ton may increase due to plant ramp-up inefficiencies\n- Overtime increases labor cost\n- Third-party transport increases logistics premium\n\nUnit economics analysis must support scenario-based decision making."
+    },
+    {
+      "source": "C:/Users/maher/OneDrive/Documentos/06_GitHub/mahg-llm-lab/knowledge/logistics/emergency_routing.txt",
+      "chunk": 0,
+      "text": "Emergency Routing and Distribution Contingency – Liquid Oxygen (LOX)\n\nIn a hospital liquid oxygen distribution scenario, emergency routing refers to the reconfiguration of transport and delivery plans in response to production stoppage, demand surge, or logistics disruption.\n\nA production plant shutdown (planned or unplanned) may create supply imbalance across regions. To prevent tank depletion (dry-out), the following emergency routing strategies must be implemented:\n\n1. Cross-Plant Rebalancing\n- Activate alternative production plants within the network.\n- Reallocate tanker fleet capacity to support affected regions.\n- Prioritize medical oxygen over industrial contracts if required by regulation.\n\n2. Dynamic Route Optimization\n- Recalculate delivery routes in real-time based on:\n  - Current tank levels at hospitals\n  - Consumption forecast\n  - Distance to nearest available production so"
+    },
+    {
+      "source": "C:/Users/maher/OneDrive/Documentos/06_GitHub/mahg-llm-lab/knowledge/logistics/emergency_routing.txt",
+      "chunk": 1,
+      "text": "e delivery routes in real-time based on:\n  - Current tank levels at hospitals\n  - Consumption forecast\n  - Distance to nearest available production source\n- Use telemetry and GPS fleet tracking systems to reduce response time.\n\n3. Priority-Based Allocation\n- Classify hospitals by criticality level (ICU capacity, emergency load, trauma centers).\n- Deliver first to high-risk facilities with <48h storage autonomy.\n\n4. Emergency Buffer Deployment\n- Deploy mobile cryogenic tanks where fixed storage is insufficient.\n- Increase temporary storage capacity in high-consumption hospitals.\n\n5. Fleet Surge Capacity\n- Activate standby drivers and vehicles.\n- Authorize overtime under emergency operations protocol.\n- Coordinate with third-party transport providers if internal fleet is insufficient.\n\n6. Regulatory Compliance\n- Ensure ADR (transport of dangerous goods) compliance.\n- Maintain full traceabi"
+    },
+    {
+      "source": "C:/Users/maher/OneDrive/Documentos/06_GitHub/mahg-llm-lab/knowledge/logistics/emergency_routing.txt",
+      "chunk": 2,
+      "text": "roviders if internal fleet is insufficient.\n\n6. Regulatory Compliance\n- Ensure ADR (transport of dangerous goods) compliance.\n- Maintain full traceability of emergency dispatch decisions.\n\nEmergency routing decisions must be supported by real-time telemetry, predictive demand models, and a centralized operations control center."
+    },
+    {
+      "source": "C:/Users/maher/OneDrive/Documentos/06_GitHub/mahg-llm-lab/knowledge/pricing/medical_oxygen_pricing_policy.txt",
+      "chunk": 0,
+      "text": "Medical Oxygen Pricing Policy – Hospital Contracts\n\nMedical liquid oxygen pricing is typically governed by long-term contracts and strict regulatory frameworks.\n\n1. Contract Structure\nMost hospital agreements include:\n- Fixed price per ton\n- Minimum annual volume commitment\n- Indexed adjustment clause (energy index or CPI)\n- Tank rental agreement\n- Maintenance service agreement\n\nPricing flexibility during emergencies is limited.\n\n2. Regulatory Constraints\nMedical oxygen is a critical healthcare product.\nPrice increases during emergencies may be:\n- Legally restricted\n- Contractually prohibited\n- Ethically sensitive\n\nMargin recovery during emergency situations is often not allowed.\n\n3. Volume-Based Pricing\nHospitals are often segmented by:\n- Annual consumption\n- ICU capacity\n- Strategic importance\n\nHigher volume hospitals receive:\n- Lower base price per ton\n- More favorable logistics rates"
+    },
+    {
+      "source": "C:/Users/maher/OneDrive/Documentos/06_GitHub/mahg-llm-lab/knowledge/pricing/medical_oxygen_pricing_policy.txt",
+      "chunk": 1,
+      "text": "Annual consumption\n- ICU capacity\n- Strategic importance\n\nHigher volume hospitals receive:\n- Lower base price per ton\n- More favorable logistics rates\n\n4. Emergency Delivery Pricing\nEmergency deliveries:\n- May not carry surcharge in regulated markets\n- Often absorb additional logistics cost internally\n- Reduce margin per ton\n\n5. Cross-Subsidization Risk\nIf industrial contracts are interrupted to prioritize medical supply:\n- Industrial penalties may apply\n- Margin mix shifts negatively\n- EBITDA volatility increases\n\n6. Pricing Governance\nFinancial controller and commercial director must approve:\n- Any deviation from contracted price\n- Emergency discount or surcharge decisions\n- Temporary contract renegotiations\n\n7. Strategic Pricing Considerations\nMedical oxygen supply supports:\n- Reputation\n- Long-term customer retention\n- Public trust\n- Government relations\n\nPricing decisions must consi"
+    },
+    {
+      "source": "C:/Users/maher/OneDrive/Documentos/06_GitHub/mahg-llm-lab/knowledge/pricing/medical_oxygen_pricing_policy.txt",
+      "chunk": 2,
+      "text": "ations\nMedical oxygen supply supports:\n- Reputation\n- Long-term customer retention\n- Public trust\n- Government relations\n\nPricing decisions must consider long-term strategic value, not only short-term margin.\n\nEmergency situations require balancing:\nPatient safety\nRegulatory compliance\nFinancial sustainability"
+    },
+    {
+      "source": "C:/Users/maher/OneDrive/Documentos/06_GitHub/mahg-llm-lab/knowledge/production/dry_out_definition.txt",
+      "chunk": 0,
+      "text": "A dry-out event in liquid oxygen distribution refers to a tank depletion event where storage tanks reach critical low levels due to production stoppage, logistics delay, or demand surge.\n\nIt is NOT related to humidification.\n\nPreventive measures include:\n- Minimum safety stock levels\n- Multi-plant redundancy\n- Real-time tank telemetry\n- Predictive consumption modeling\n- Emergency logistics rerouting"
+    }
+  ]
+}
